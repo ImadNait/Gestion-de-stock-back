@@ -5,7 +5,7 @@ A RESTful API for managing product inventory built with **Django** and **Django 
 ## ⚙️ Features
 
 - CRUD for products
-- 🖼Image upload support
+- Image upload support
 - CORS-enabled API for frontend
 - Dockerized environment
 
